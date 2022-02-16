@@ -1,0 +1,24 @@
+{
+  "name": "mean-stack",
+  "version": "1.0.0",
+  "description": "Creating a web app using the MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willorme/MEAN-Stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willorme/MEAN-Stack/issues"
+  },
+  "homepage": "https://github.com/willorme/MEAN-Stack#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
+}
